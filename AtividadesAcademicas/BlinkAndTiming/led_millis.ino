@@ -1,8 +1,8 @@
 /*
   ------------------------------------------------------------
   Atividade: Pisca-LED Sem Delay
-  Autor: Ana Caroline Pedrosa
-  Data: 22/04/2025
+  @author Ana Caroline Pedrosa e Silva
+  @version 1.0 22/04/2025
   
   Descrição: Controla um LED piscando a cada 250ms sem usar delay().
 
