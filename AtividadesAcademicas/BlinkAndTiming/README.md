@@ -25,6 +25,7 @@ Esta pasta contém exemplos e experimentos relacionados ao controle de LEDs util
 - Resistores 220Ω
 - LEDs
 - Protoboard e jumpers
+- Botão 4 pinos
 
 ---
 
