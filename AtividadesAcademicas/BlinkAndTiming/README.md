@@ -16,6 +16,7 @@ Esta pasta contém exemplos e experimentos relacionados ao controle de LEDs util
 - **led_millis.ino**: Piscar LED sem bloquear o microcontrolador, utilizando `millis()`.
 - **led_button_millis**: Piscar LED usando `millis()` com tempos diferentes de acordo com o estado do botão.
 - **led_multiplos.ino**: Controle de múltiplos LEDs de forma independente.
+- **led_potenciometro.ino**: Pisca LED de acordo com o intervalo definido pelo potenciometro.
 
 ---
 
